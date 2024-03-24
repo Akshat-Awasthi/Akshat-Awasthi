@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/akshata77177699" target="blank"><img src="https://img.shields.io/twitter/follow/akshata77177699?logo=twitter&style=for-the-badge" alt="akshata77177699" /></a> </p>
 
-- 🔭 I’m currently working on [Sync-Hub](https://github.com/Akshat-Awasthi/Sync-Hub.git)
+- 🔭 I’m currently working on [My-Hostel](https://github.com/Akshat-Awasthi/My-Hostel)
 
-- 🌱 I’m currently learning **ReactJS ,NodeJS and Cloud-DevOps**
+- 🌱 I’m currently learning **ReactJS ,Java and Cloud-DevOps**
 
 - 🤝 I’m looking for help with **DevOps**
 
