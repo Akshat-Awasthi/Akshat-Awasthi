@@ -1,4 +1,5 @@
-<img width="1834" alt="Make your README" src="https://github.com/Akshat-Awasthi/Akshat-Awasthi/assets/115067271/020b98b1-032a-48cc-ad55-82622a4efa3c">
+<img width="1834" alt=" " src="https://github.com/user-attachments/assets/574d86da-df70-4617-ad79-d4a39dbac8ef">
+
 
 <h1 align="center">Hi 👋, I'm Akshat Awasthi</h1>
 <h3 align="center">FARM Stack Developer</h3>
