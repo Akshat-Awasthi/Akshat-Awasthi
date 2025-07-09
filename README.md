@@ -1,4 +1,3 @@
-# 👋 Hey, I'm Akshat Awasthi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00DBDE&background=00000000&center=true&width=600&lines=Frontend+Developer;React+Specialist;Open+Source+Contributor" alt="Typing Animation" />
@@ -9,16 +8,6 @@
   <img src="https://img.shields.io/github/followers/akshat-awasthi?style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen?style=for-the-badge" alt="Focus" />
 </p>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Akshat-Awasthi/My-Hostel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat-Awasthi&repo=My-Hostel&theme=tokyonight&hide_border=true" alt="Hostel.ai" />
-  </a>
-</div>
-
----
 
 ## 🚀 About Me
 
@@ -32,7 +21,6 @@ const akshat = {
 };
 ```
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 🎯 What I'm up to:
 - 🔭 Building **[Hostel.ai](https://github.com/Akshat-Awasthi/My-Hostel)** with Next.js & Modern UI
@@ -40,7 +28,6 @@ const akshat = {
 - ✍️ Writing frontend tips on [Hashnode](https://akshatawasthi.hashnode.dev/)
 - ⚡ Exploring **Three.js** and **Web Animation APIs**
 
----
 
 ## 🛠️ Frontend Arsenal
 
@@ -72,7 +59,6 @@ const akshat = {
 
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -83,25 +69,12 @@ const akshat = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-awasthi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
----
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akshat-awasthi&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [React Performance Optimization Techniques](https://akshatawasthi.hashnode.dev/)
-- ⚡ [Modern CSS: Grid vs Flexbox](https://akshatawasthi.hashnode.dev/)
-- 🔧 [TypeScript Best Practices for React](https://akshatawasthi.hashnode.dev/)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 Let's Connect!
 
@@ -123,13 +96,11 @@ const akshat = {
   </a>
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=white&animation=twinkling" />
 </div>
 
----
 
 <div align="center">
   <i>with ❤️ From <a href="https://github.com/akshat-awasthi">Akshat Awasthi</a></i>
