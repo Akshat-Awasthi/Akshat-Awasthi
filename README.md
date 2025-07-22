@@ -23,7 +23,7 @@ const akshat = {
 
 
 ### 🎯 What I'm up to:
-- 🔭 Building **[Interact](https://github.com/Akshat-Awasthi/Interact)** framework
+- 🔭 Building **[Interact](https://github.com/Akshat-Awasthi/Interact)** for frontend
 - 🌱 Mastering **React**, **TypeScript** and **Advanced CSS**
 - ✍️ Writing frontend tips on [Hashnode](https://akshatawasthi.hashnode.dev/)
 - ⚡ Exploring **Three.js** and **Web Animation APIs**
