@@ -23,8 +23,8 @@ const akshat = {
 
 
 ### 🎯 What I'm up to:
-- 🔭 Building **[Hostel.ai](https://github.com/Akshat-Awasthi/My-Hostel)** with Next.js & Modern UI
-- 🌱 Mastering **React 18**, **TypeScript** and **Advanced CSS**
+- 🔭 Building **[Interact](https://github.com/Akshat-Awasthi/Interact)** framework
+- 🌱 Mastering **React**, **TypeScript** and **Advanced CSS**
 - ✍️ Writing frontend tips on [Hashnode](https://akshatawasthi.hashnode.dev/)
 - ⚡ Exploring **Three.js** and **Web Animation APIs**
 
