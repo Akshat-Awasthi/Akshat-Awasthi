@@ -16,17 +16,17 @@ const akshat = {
     location: "Delhi, India 🇮🇳",
     currentFocus: ["Next.js", "TypeScript", "React", "JavaScript"],
     specialties: ["Component Architecture", "State Management", "Performance Optimization"],
-    currentProject: "Hostel.ai - Modern Dashboard Interface",
+    currentProject: "MetroTrack - live metro tracking system",
     funFact: "I can center a div in CSS faster than you can say 'flexbox' 😄"
 };
 ```
 
 
 ### 🎯 What I'm up to:
-- 🔭 Building **[Interact](https://github.com/Akshat-Awasthi/Interact)** for frontend
+- 🔭 Building **[MetroTrack](https://github.com/Akshat-Awasthi/MetroTrack)**
 - 🌱 Mastering **React**, **TypeScript** and **Advanced CSS**
 - ✍️ Writing frontend tips on [Hashnode](https://akshatawasthi.hashnode.dev/)
-- ⚡ Exploring **Three.js** and **Web Animation APIs**
+- ⚡ Exploring **Three.js**, **Blender** and **Web Animation**
 
 
 ## 🛠️ Frontend Arsenal
