@@ -70,12 +70,6 @@ const akshat = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-awasthi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat-awasthi&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
